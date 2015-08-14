@@ -1,0 +1,14 @@
+{
+  "name": "gm",
+  "description": "GM SAMPLE APP.",
+  "version": "1.0.0",
+  "author": "NBC",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "async": "~0.2.9",
+    "lodash": "~2.4.1",
+    "mkdirp": "~0.5.1",
+    "path": "~0.11.14"
+  }
+}

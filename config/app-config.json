@@ -1,0 +1,34 @@
+{
+  "types": {
+    "clips": {
+      "SD": {
+        "height": "500",
+        "width": "500"
+      },
+      "HD": {
+        "height": "800",
+        "width": "800"
+      }
+    },
+    "episodes": {
+      "SD": {
+        "height": "500",
+        "width": "500"
+      },
+      "HD": {
+        "height": "800",
+        "width": "800"
+      }
+    },
+    "shows": {
+      "SD": {
+        "height": "500",
+        "width": "500"
+      },
+      "HD": {
+        "height": "800",
+        "width": "800"
+      }
+    }
+  }
+}
