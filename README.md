@@ -1,4 +1,4 @@
-# Generating images from source json using GraphicMagic
+# Generating images from source json using GraphicsMagick
 
 GM APP
 
@@ -6,8 +6,8 @@ GM APP
 ## Installation
 
 * Install brew: http://brew.sh/
-* brew install graphicmagic
-* brew install ghostscript
+* brew install graphicsmagick
+* brew install ghostscript - (For handling fonts)
 
 ## Execution
 
