@@ -2,6 +2,7 @@
   "types": {
     "clips": {
       "SD": {
+        "quality": "50",
         "height": "500",
         "width": "500"
       },
@@ -30,5 +31,9 @@
         "width": "800"
       }
     }
+  },
+  "quality": {
+    "SD": "75",
+    "HD": "100"
   }
 }
